@@ -13,7 +13,7 @@ A Tampermonkey/Greasemonkey userscript that moves the description panel on YouTu
 3. Click install when prompted or drag and drop the file into your userscript manager.
 
 ## Author
-[greasyfork] (https://greasyfork.org/en/users/1503913-rashad-07)  
+[greasyfork](https://greasyfork.org/en/users/1503913-rashad-07)  
 [github](https://github.com/rashad-07)
 
 ## License
