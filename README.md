@@ -14,6 +14,7 @@ A Tampermonkey/Greasemonkey userscript that moves the description panel on YouTu
 
 ## Author
 [Rashad07](https://greasyfork.org/en/users/1503913-rashad-07)
+
 [rashad-07](https://github.com/rashad-07)
 
 ## License
