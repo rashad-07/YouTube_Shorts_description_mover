@@ -9,11 +9,11 @@ A Tampermonkey/Greasemonkey userscript that moves the description panel on YouTu
 
 ## Installation
 1. Install a userscript manager (Tampermonkey, Greasemonkey, or Violentmonkey).
-2. Install [greasyfork script](https://update.greasyfork.org/scripts/545764/YouTube%20Shorts%20Description%20Mover.user.js) or download the .js file [here](https://github.com/rashad-07/YouTube_Shorts_description_mover/releases/download/1.0.0/YouTube.Shorts.Description.Mover.user.js).
+2. Install [greasy fork script](https://update.greasyfork.org/scripts/545764/YouTube%20Shorts%20Description%20Mover.user.js) or download the .js file [here](https://github.com/rashad-07/YouTube_Shorts_description_mover/releases/download/1.0.0/YouTube.Shorts.Description.Mover.user.js).
 3. Click install when prompted or drag and drop the file into your userscript manager.
 
 ## Author
-[greasyfork](https://greasyfork.org/en/users/1504838-rashad-07)  
+[greasy fork](https://greasyfork.org/en/users/1504838-rashad-07)  
 [github](https://github.com/rashad-07)
 
 ## License
